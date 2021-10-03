@@ -1,0 +1,19 @@
+{
+    "name": "leit040/cars",
+    "description": "homework",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Leit040\\Cars\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leit040",
+            "email": "leit2040@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
